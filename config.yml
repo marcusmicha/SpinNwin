@@ -1,0 +1,80 @@
+coins_250:
+  probability: 0.025
+  value: 0.05
+  volatility: 0.05
+coins_500:
+  probability: 0.025
+  value: 0.10
+  volatility: 0.05
+coins_750:
+  probability: 0.025
+  value: 0.15
+  volatility: 0.05
+coins_1000:
+  probability: 0.015
+  value: 0.20
+  volatility: 0.05
+coins_1500:
+  probability: 0.001
+  value: 0.30
+  volatility: 0.05
+coins_2500:
+  probability: 0.009
+  value: 0.50
+  volatility: 0.05
+egg_silver:
+  probability: 0.09
+  value: 0.25
+  volatility: 0.00
+egg_gold:
+  probability: 0.04
+  value: 0.75
+  volatility: 0.00
+egg_diamond:
+  probability: 0.02
+  value: 1.50
+  volatility: 0.00
+hammer_bronze:
+  probability: 0.10
+  value: 0.20
+  volatility: 0.00
+coconut_item:
+  probability: 0.10
+  value: 0.09
+  volatility: 0.02
+free_spin_1:
+  probability: 0.05
+  value: 0.20
+  volatility: 0.03
+free_spin_2:
+  probability: 0.03
+  value: 0.40
+  volatility: 0.03
+free_spin_3:
+  probability: 0.02
+  value: 0.60
+  volatility: 0.03
+gems_10:
+  probability: 0.04
+  value: 0.10
+  volatility: 0.02
+gems_25:
+  probability: 0.03
+  value: 0.25
+  volatility: 0.02
+gems_50:
+  probability: 0.02
+  value: 0.50
+  volatility: 0.02
+gems_75:
+  probability: 0.01
+  value: 0.75
+  volatility: 0.02
+gems_100:
+  probability: 0.00
+  value: 1.00
+  volatility: 0.02
+empty:
+  probability: 0.35
+  value: 0.00
+  volatility: 0.05
